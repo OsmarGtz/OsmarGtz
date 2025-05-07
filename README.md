@@ -18,7 +18,9 @@ I'm currently working on industrial automation, working with robots and automate
 
 ### ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
 
 # 💻 Tech Stack
 [MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
