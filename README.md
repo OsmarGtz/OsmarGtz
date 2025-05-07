@@ -17,8 +17,8 @@ I'm currently working on industrial automation, working with robots and automate
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/osmar_bto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osmar-gutiérrez-botello) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:osmar.gtz.botello@gmail.com)
 
 ### ⚡ Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 # 💻 Tech Stack
 [MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
