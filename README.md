@@ -18,14 +18,14 @@ I'm currently working on industrial automation, working with robots and automate
 
 ## ⚡ Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [OsmarGtz/Curso-Python-Pip](https://github.com/OsmarGtz/Curso-Python-Pip)<br>
-2. ⬆️ Pushed undefined commit(s) to [OsmarGtz/Curso-Python-Pip](https://github.com/OsmarGtz/Curso-Python-Pip)<br>
-3. ⬆️ Pushed undefined commit(s) to [OsmarGtz/Curso-Python-Pip](https://github.com/OsmarGtz/Curso-Python-Pip)<br>
-4. ⬆️ Pushed undefined commit(s) to [OsmarGtz/Curso-Python-Pip](https://github.com/OsmarGtz/Curso-Python-Pip)<br>
-5. ⬆️ Pushed undefined commit(s) to [OsmarGtz/Curso-Python-Pip](https://github.com/OsmarGtz/Curso-Python-Pip)<br>
+1. ⬆️ Pushed undefined commit(s) to [OsmarGtz/Unit-Testing-en-Python](https://github.com/OsmarGtz/Unit-Testing-en-Python)<br>
+2. ⬆️ Pushed undefined commit(s) to [OsmarGtz/Unit-Testing-en-Python](https://github.com/OsmarGtz/Unit-Testing-en-Python)<br>
+3. ⬆️ Pushed undefined commit(s) to [OsmarGtz/Unit-Testing-en-Python](https://github.com/OsmarGtz/Unit-Testing-en-Python)<br>
+4. ⬆️ Pushed undefined commit(s) to [OsmarGtz/Unit-Testing-en-Python](https://github.com/OsmarGtz/Unit-Testing-en-Python)<br>
+5. ⬆️ Pushed undefined commit(s) to [OsmarGtz/Unit-Testing-en-Python](https://github.com/OsmarGtz/Unit-Testing-en-Python)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 15th, 2026, 12:45:49 PM
+Last Updated: Monday, February 16th, 2026, 1:59:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 # 💻 Tech Stack
