@@ -10,7 +10,7 @@
 
 Python Backend Developer & Automation Engineer with 5+ years of experience bridging industrial control systems and modern software. I design APIs, automation pipelines, and data integrations that connect factory floors to the cloud.
 
-- PLC Programmer @ **IT8 US** — remote (Aug 2024 – present)
+- PLC Programmer @ **IT8 US Corporation** — remote (Aug 2024 – present)
 - Automation Specialist @ **Constellation Brands** (2022 – 2024)
 - Electromechanical Engineer — ITSON (2015 – 2020)
 - Based in Sonora, Mexico &nbsp;|&nbsp; English C1 / Spanish Native
