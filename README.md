@@ -62,6 +62,13 @@ A FastAPI microservice that connects to OPC-UA industrial equipment, collects re
 
 ---
 
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## Contact
 
 [![Email](https://img.shields.io/badge/osmar.gtz.botello%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:osmar.gtz.botello@gmail.com) &nbsp; [![GitHub](https://img.shields.io/badge/OsmarGtz-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/OsmarGtz) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/osmar-gutierrez-botello)
