@@ -65,7 +65,6 @@ A FastAPI microservice that connects to OPC-UA industrial equipment, collects re
 ## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [OsmarGtz/OsmarGtz](https://github.com/OsmarGtz/OsmarGtz)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
